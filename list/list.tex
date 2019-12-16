@@ -1,0 +1,513 @@
+% !TEX encoding = System
+\documentclass{noithesis}
+\usepackage[colorlinks]{hyperref}
+\usepackage{diagbox}
+\usepackage{booktabs}
+
+\hypersetup{hidelinks}
+
+\newtheorem{theorem}{定理}[section]
+\newtheorem{definition}[theorem]{定义}
+\newtheorem{lemma}[theorem]{引理}
+\newtheorem{property}{性质}[theorem]
+
+\setcounter{section}{-1}
+\setcounter{tocdepth}{4}
+\setcounter{secnumdepth}{4}
+
+\begin{document}
+
+\title{NOI 复习大纲}
+\author{重庆市巴蜀中学~~高 2022 级信竞组}
+\maketitle
+\tableofcontents
+
+\newpage
+\setcounter{page}{1}
+\section{前言}
+
+\subsection{基本介绍}
+
+此清单由 disangan233 整理并制作。
+
+题目来源：BSOJ-code，Luogu，CodeForces，AtCoder。
+
+编写语言：LaTeX，模板：noi~~thesis。
+
+最近更新时间：2019/12/14，目前共添加题目：$42$ 道。
+
+\subsection{受众声明}
+
+如果你是一名 Bashu OIer，本清单将会极大程度贴合你的做题需求面。
+
+如果你不是，欢迎来 Bashu Online Judge 注册账号使用！
+
+\subsection{使用声明}
+
+所有表格里的题目名称均为超链接形式，默认本窗口打开。
+
+如果你能实现 LaTeX 内链接打开为 \_target=blank，请联系本清单制作者。
+
+\subsection{寄语}
+
+我们的目标是星辰大海，谁没有一个 Au 的梦想呢？努力去实现吧！
+
+你可是一名 OIer 啊，既然来到 OI 就不应该携带悔恨离去呢！
+
+颓废是没有明天的，努力学习吧！
+
+汝虽菜，亦有大智慧！盖学文化课者所无也。
+
+以上选自 《did 语录》，《锴皇正传》。
+
+\newpage
+\section{动态规划}
+
+\subsection{朴素 dp}
+
+\subsubsection{LIS/LCS 类 dp}
+
+\subsubsection{区间 dp}
+
+\subsubsection{资源分配类 dp}
+
+\paragraph{背包类 dp}
+
+\paragraph{最大乘积类 dp}
+
+\subsubsection{子序列/子串类 dp}
+
+\subsubsection{双重/多重 dp}
+
+\newpage
+\subsection{状压 dp}
+
+\subsubsection{状压 dp}
+
+\subsubsection{轮廓线 dp}
+
+\subsubsection{插头 dp}
+
+\subsubsection{Stenier Tree}
+
+\newpage
+\subsection{树形 dp}
+
+\subsubsection{树形 dp}
+
+\subsubsection{换根 dp}
+
+\begin{tabular}{p{50px}<{\centering}p{180px}<{\centering}p{110px}<{\centering}}
+
+	\toprule  
+	编号 & 题目名称 & 知识点 \\
+
+	\midrule 
+	1195 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=1195/}{「POJ3585」Accumulation Degree} & 换根 dp \\
+	
+	4201 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=4201/}{「APIO2014」连珠线} & 换根 dp \\
+	
+	4766 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=4766/}{「SHOI2014」概率充电器} & 换根 dp，概率期望 \\
+	
+	6101 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=6101/}{「十二省模拟」树的双直径} & 换根 dp，up-down dp \\
+	
+	6304 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=6304/}{「10.05模拟」签到题} & 换根 dp \\
+	
+	6415 & \href{https://oj.bashu.com.cn/code/problempage.php?problem_id=6415/}{「11.14模拟」涅槃} & 换根 dp \\
+	\toprule
+    
+\end{tabular}
+
+\subsubsection{基环树 dp}
+
+\subsubsection{仙人掌 dp}
+
+\subsubsection{虚树 dp}
+
+\newpage
+\subsection{数位 dp}
+
+\newpage
+\subsection{概率期望 dp}
+
+\newpage
+\subsection{dp 优化}
+
+\subsubsection{决策单调性优化 dp}
+
+\paragraph{四边形不等式优化 dp}
+
+\paragraph{单调栈/二分栈优化 dp}
+
+\paragraph{分治优化 dp}
+
+\paragraph{斜率优化 dp}
+
+\paragraph{wqs 二分（dp 凸优化）}
+
+\subsubsection{滚动数组优化 dp}
+
+\subsubsection{倍增优化 dp}
+
+\subsubsection{矩阵乘法优化 dp}
+
+\subsubsection{数据结构优化 dp}
+
+\subsubsection{ddp}
+
+\newpage
+\section{图论}
+\subsection{树}
+
+\subsubsection{树的遍历}
+
+\subsubsection{基环树}
+
+\subsubsection{仙人掌}
+
+\newpage
+\subsection{树}
+
+\newpage
+\subsection{图的连通性}
+
+\subsubsection{有向图连通性}
+
+\paragraph{强连通分量}
+
+\subsubsection{无向图连通性}
+
+\paragraph{缩点}
+
+\paragraph{点双/边双}
+
+\newpage
+\subsection{生成树问题}
+
+\subsubsection{最值生成树}
+
+\subsubsection{k 值生成树}
+
+\subsubsection{k 度限制生成树}
+
+\newpage
+\subsection{最短路径问题}
+
+\subsubsection{最短路}
+
+\subsubsection{k 短路}
+
+\subsubsection{分层图最短路}
+
+\newpage
+\subsection{二分图与网络流}
+
+\subsubsection{二分图最大匹配}
+
+\subsubsection{最大流}
+
+\subsubsection{最小费用流}
+
+\subsubsection{上下界网络流}
+
+\subsubsection{网络流常见模型}
+
+\subsubsection{带花树}
+
+\newpage
+\section{数学}
+
+\subsection{数论}
+
+\subsubsection{常见数论定理}
+
+\paragraph{crt，excrt}
+
+\subparagraph{crt}
+
+\subparagraph{excrt}
+
+\paragraph{裴蜀定理}
+
+\paragraph{费马小/大定理}
+
+\subsubsection{素数}
+
+\paragraph{Miller\_Rabin 素数判定}
+
+\paragraph{Pollard\_Rho 质因数分解}
+
+\subsubsection{整除}
+
+\paragraph{mod 的运算}
+
+\paragraph{ceil 和 floor 的运算}
+
+\subsubsection{Dirichlet 卷积}
+
+\paragraph{线性筛}
+
+\paragraph{杜教筛}
+
+\paragraph{Min\_25 筛}
+
+\subsubsection{原根，ord}
+
+\subsubsection{BSGS}
+
+\subsubsection{类欧几里得}
+
+\newpage
+\subsection{组合数学}
+
+\subsubsection{Lucas 定理}
+
+\paragraph{Lucas 定理}
+
+\paragraph{exLucas 定理}
+
+\subsubsection{容斥原理}
+
+\paragraph{容斥原理}
+
+\paragraph{二项式反演（广义容斥）}
+
+\paragraph{子集反演}
+
+\paragraph{min-max 反演，$k$ 值反演}
+
+\subsubsection{Catalan 数}
+
+\subsubsection{Stirling 数}
+
+\paragraph{第一类 Stirling 数}
+
+\paragraph{第二类 Stirling 数}
+
+\paragraph{Stirling 反演}
+
+\subsubsection{Bernoulli 数}
+
+\newpage
+\subsection{线性代数}
+
+\subsubsection{Gauss 消元}
+
+\subsubsection{线性基}
+
+\subsubsection{Matrix-Tree 定理}
+
+\newpage
+\subsection{多项式}
+
+\subsubsection{Lagrange 插值}
+
+\paragraph{Lagrange 插值}
+
+\paragraph{Lagrange 反演}
+
+\paragraph{exLagrange 反演}
+
+\subsubsection{FFT/NTT}
+
+\paragraph{多项式基本模板}
+
+\subparagraph{多项式乘法}
+
+\subparagraph{多项式求逆}
+
+\subparagraph{多项式 ln}
+
+\subparagraph{多项式 exp}
+
+\subparagraph{多项式除法}
+
+\subparagraph{多项式开根}
+
+\subparagraph{多项式快速幂}
+
+\subparagraph{多项式三角函数}
+
+\subparagraph{多项式双曲函数}
+
+\paragraph{分治 FFT/NTT}
+
+\paragraph{单位根反演}
+
+\subsubsection{幂级数}
+
+\paragraph{集合幂级数 FWT/FMT/FST}
+
+\paragraph{生成函数}
+
+\subparagraph{普通型生成函数 OGF}
+
+\subparagraph{指数型生成函数 EGF}
+
+\subsubsection{常系数齐次线性递推}
+
+\subsubsection{特征根/多项式}
+
+\newpage
+\subsection{群论}
+
+\subsubsection{置换群}
+
+\subsubsection{Burnside 引理及不动点}
+
+\subsubsection{polya 计数}
+
+\newpage
+\subsection{博弈论}
+
+\newpage
+\subsection{线性规划}
+
+\subsubsection{单纯形法}
+
+\newpage
+\subsection{基础微积分}
+
+\subsubsection{Simpson 积分}
+
+\subsubsection{偏导数}
+
+\paragraph{Lagrange 乘数法}
+
+\paragraph{最小二乘法}
+
+\subsubsection{差分}
+
+\paragraph{分部求和法}
+
+\paragraph{多重差分}
+
+\newpage
+\subsection{贪心，随机化算法}
+
+\subsubsection{01 分数规划}
+
+\subsubsection{拟阵}
+
+\subsubsection{随机化算法}
+
+\newpage
+\subsection{计算几何}
+
+\subsubsection{向量}
+
+\subsubsection{凸包}
+
+\paragraph{旋转卡壳}
+
+\paragraph{Minkowski 合并凸包}
+
+\subsubsection{半平面交}
+
+\subsubsection{三角剖分}
+
+\subsubsection{三维计算几何}
+
+\paragraph{三维凸包}
+
+\paragraph{四面体剖分}
+
+\newpage
+\section{字符串}
+
+\subsection{Hash}
+
+\newpage
+\subsection{KMP/exKMP}
+
+\newpage
+\subsection{AC 自动机}
+
+\newpage
+\subsection{SA/SAM}
+
+\newpage
+\subsection{manacher/PAM}
+
+\newpage
+\section{数据结构}
+
+\subsection{基础数据结构}
+
+\newpage
+\subsection{树状数组 bit}
+
+\newpage
+\subsection{线段树 sgt}
+
+\subsubsection{zkw 线段树}
+
+\subsubsection{线段树合并/分裂}
+
+\subsubsection{Beats（吉司机树)}
+
+\subsubsection{李超线段树}
+
+\newpage
+\subsection{平衡树}
+
+\subsubsection{Splay}
+
+\subsubsection{Treap/fhq-Treap}
+
+\subsubsection{笛卡尔树}
+
+\subsubsection{替罪羊树}
+
+\newpage
+\subsection{KD-Tree}
+
+\newpage
+\subsection{可并堆和左偏树}
+
+\newpage
+\subsection{序列分治算法}
+
+\subsubsection{CDQ 分治}
+
+\subsubsection{整体二分}
+
+\newpage
+\subsection{树上分治算法}
+
+\subsubsection{点分治}
+
+\paragraph{动态点分治}
+
+\subsubsection{边分治}
+
+\subsubsection{树链剖分 HLD}
+
+\subsubsection{Link-Cut-Tree}
+
+\subsubsection{长链剖分 LPD}
+
+\subsubsection{dsu on tree}
+
+\subsubsection{Euler-Tour-Tree}
+
+\newpage
+\subsection{可持久化数据结构}
+
+\newpage
+\subsection{Dancing-Links X}
+
+\newpage
+\section{更新日志}
+
+\subsection{version beta 1.0}
+
+2019/11/21，本清单正式开始撰写，采用 markdown 格式，完善了 dp 板块知识点。
+
+2019/11/22，完善了数学板块知识点，更新了 $42$ 道题目。
+
+2019/11/23，因为 markdown 太丑了，disangan233 通宵把本题单全面更新成了 LaTeX，题目已搬迁 6 道。
+
+2019/12/14，LaTeX 扩充，完善图论、字符串板块、数据结构知识点。
+
+\end{document}

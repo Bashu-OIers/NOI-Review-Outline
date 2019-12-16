@@ -1,0 +1,197 @@
+\contentsline {section}{\numberline {0}前言}{1}{section.0}% 
+\contentsline {subsection}{\numberline {0.1}基本介绍}{1}{subsection.0.1}% 
+\contentsline {subsection}{\numberline {0.2}受众声明}{1}{subsection.0.2}% 
+\contentsline {subsection}{\numberline {0.3}使用声明}{1}{subsection.0.3}% 
+\contentsline {subsection}{\numberline {0.4}寄语}{1}{subsection.0.4}% 
+\contentsline {section}{\numberline {1}动态规划}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}朴素 dp}{2}{subsection.1.1}% 
+\contentsline {subsubsection}{\numberline {1.1.1}LIS/LCS 类 dp}{2}{subsubsection.1.1.1}% 
+\contentsline {subsubsection}{\numberline {1.1.2}区间 dp}{2}{subsubsection.1.1.2}% 
+\contentsline {subsubsection}{\numberline {1.1.3}资源分配类 dp}{2}{subsubsection.1.1.3}% 
+\contentsline {paragraph}{\numberline {1.1.3.1}背包类 dp}{2}{paragraph.1.1.3.1}% 
+\contentsline {paragraph}{\numberline {1.1.3.2}最大乘积类 dp}{2}{paragraph.1.1.3.2}% 
+\contentsline {subsubsection}{\numberline {1.1.4}子序列/子串类 dp}{2}{subsubsection.1.1.4}% 
+\contentsline {subsubsection}{\numberline {1.1.5}双重/多重 dp}{2}{subsubsection.1.1.5}% 
+\contentsline {subsection}{\numberline {1.2}状压 dp}{3}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}状压 dp}{3}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}轮廓线 dp}{3}{subsubsection.1.2.2}% 
+\contentsline {subsubsection}{\numberline {1.2.3}插头 dp}{3}{subsubsection.1.2.3}% 
+\contentsline {subsubsection}{\numberline {1.2.4}Stenier Tree}{3}{subsubsection.1.2.4}% 
+\contentsline {subsection}{\numberline {1.3}树形 dp}{4}{subsection.1.3}% 
+\contentsline {subsubsection}{\numberline {1.3.1}树形 dp}{4}{subsubsection.1.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.2}换根 dp}{4}{subsubsection.1.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3}基环树 dp}{4}{subsubsection.1.3.3}% 
+\contentsline {subsubsection}{\numberline {1.3.4}仙人掌 dp}{4}{subsubsection.1.3.4}% 
+\contentsline {subsubsection}{\numberline {1.3.5}虚树 dp}{4}{subsubsection.1.3.5}% 
+\contentsline {subsection}{\numberline {1.4}数位 dp}{5}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}概率期望 dp}{6}{subsection.1.5}% 
+\contentsline {subsection}{\numberline {1.6}dp 优化}{7}{subsection.1.6}% 
+\contentsline {subsubsection}{\numberline {1.6.1}决策单调性优化 dp}{7}{subsubsection.1.6.1}% 
+\contentsline {paragraph}{\numberline {1.6.1.1}四边形不等式优化 dp}{7}{paragraph.1.6.1.1}% 
+\contentsline {paragraph}{\numberline {1.6.1.2}单调栈/二分栈优化 dp}{7}{paragraph.1.6.1.2}% 
+\contentsline {paragraph}{\numberline {1.6.1.3}分治优化 dp}{7}{paragraph.1.6.1.3}% 
+\contentsline {paragraph}{\numberline {1.6.1.4}斜率优化 dp}{7}{paragraph.1.6.1.4}% 
+\contentsline {paragraph}{\numberline {1.6.1.5}wqs 二分（dp 凸优化）}{7}{paragraph.1.6.1.5}% 
+\contentsline {subsubsection}{\numberline {1.6.2}滚动数组优化 dp}{7}{subsubsection.1.6.2}% 
+\contentsline {subsubsection}{\numberline {1.6.3}倍增优化 dp}{7}{subsubsection.1.6.3}% 
+\contentsline {subsubsection}{\numberline {1.6.4}矩阵乘法优化 dp}{7}{subsubsection.1.6.4}% 
+\contentsline {subsubsection}{\numberline {1.6.5}数据结构优化 dp}{7}{subsubsection.1.6.5}% 
+\contentsline {subsubsection}{\numberline {1.6.6}ddp}{7}{subsubsection.1.6.6}% 
+\contentsline {section}{\numberline {2}图论}{8}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}树}{8}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}树的遍历}{8}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}基环树}{8}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}仙人掌}{8}{subsubsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.2}树}{9}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}图的连通性}{10}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}有向图连通性}{10}{subsubsection.2.3.1}% 
+\contentsline {paragraph}{\numberline {2.3.1.1}强连通分量}{10}{paragraph.2.3.1.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}无向图连通性}{10}{subsubsection.2.3.2}% 
+\contentsline {paragraph}{\numberline {2.3.2.1}缩点}{10}{paragraph.2.3.2.1}% 
+\contentsline {paragraph}{\numberline {2.3.2.2}点双/边双}{10}{paragraph.2.3.2.2}% 
+\contentsline {subsection}{\numberline {2.4}生成树问题}{11}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}最值生成树}{11}{subsubsection.2.4.1}% 
+\contentsline {subsubsection}{\numberline {2.4.2}k 值生成树}{11}{subsubsection.2.4.2}% 
+\contentsline {subsubsection}{\numberline {2.4.3}k 度限制生成树}{11}{subsubsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.5}最短路径问题}{12}{subsection.2.5}% 
+\contentsline {subsubsection}{\numberline {2.5.1}最短路}{12}{subsubsection.2.5.1}% 
+\contentsline {subsubsection}{\numberline {2.5.2}k 短路}{12}{subsubsection.2.5.2}% 
+\contentsline {subsubsection}{\numberline {2.5.3}分层图最短路}{12}{subsubsection.2.5.3}% 
+\contentsline {subsection}{\numberline {2.6}二分图与网络流}{13}{subsection.2.6}% 
+\contentsline {subsubsection}{\numberline {2.6.1}二分图最大匹配}{13}{subsubsection.2.6.1}% 
+\contentsline {subsubsection}{\numberline {2.6.2}最大流}{13}{subsubsection.2.6.2}% 
+\contentsline {subsubsection}{\numberline {2.6.3}最小费用流}{13}{subsubsection.2.6.3}% 
+\contentsline {subsubsection}{\numberline {2.6.4}上下界网络流}{13}{subsubsection.2.6.4}% 
+\contentsline {subsubsection}{\numberline {2.6.5}网络流常见模型}{13}{subsubsection.2.6.5}% 
+\contentsline {subsubsection}{\numberline {2.6.6}带花树}{13}{subsubsection.2.6.6}% 
+\contentsline {section}{\numberline {3}数学}{14}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}数论}{14}{subsection.3.1}% 
+\contentsline {subsubsection}{\numberline {3.1.1}常见数论定理}{14}{subsubsection.3.1.1}% 
+\contentsline {paragraph}{\numberline {3.1.1.1}crt，excrt}{14}{paragraph.3.1.1.1}% 
+\contentsline {subparagraph}{crt}{14}{section*.2}% 
+\contentsline {subparagraph}{excrt}{14}{section*.3}% 
+\contentsline {paragraph}{\numberline {3.1.1.2}裴蜀定理}{14}{paragraph.3.1.1.2}% 
+\contentsline {paragraph}{\numberline {3.1.1.3}费马小/大定理}{14}{paragraph.3.1.1.3}% 
+\contentsline {subsubsection}{\numberline {3.1.2}素数}{14}{subsubsection.3.1.2}% 
+\contentsline {paragraph}{\numberline {3.1.2.1}Miller\_Rabin 素数判定}{14}{paragraph.3.1.2.1}% 
+\contentsline {paragraph}{\numberline {3.1.2.2}Pollard\_Rho 质因数分解}{14}{paragraph.3.1.2.2}% 
+\contentsline {subsubsection}{\numberline {3.1.3}整除}{14}{subsubsection.3.1.3}% 
+\contentsline {paragraph}{\numberline {3.1.3.1}mod 的运算}{14}{paragraph.3.1.3.1}% 
+\contentsline {paragraph}{\numberline {3.1.3.2}ceil 和 floor 的运算}{14}{paragraph.3.1.3.2}% 
+\contentsline {subsubsection}{\numberline {3.1.4}Dirichlet 卷积}{14}{subsubsection.3.1.4}% 
+\contentsline {paragraph}{\numberline {3.1.4.1}线性筛}{14}{paragraph.3.1.4.1}% 
+\contentsline {paragraph}{\numberline {3.1.4.2}杜教筛}{14}{paragraph.3.1.4.2}% 
+\contentsline {paragraph}{\numberline {3.1.4.3}Min\_25 筛}{14}{paragraph.3.1.4.3}% 
+\contentsline {subsubsection}{\numberline {3.1.5}原根，ord}{15}{subsubsection.3.1.5}% 
+\contentsline {subsubsection}{\numberline {3.1.6}BSGS}{15}{subsubsection.3.1.6}% 
+\contentsline {subsubsection}{\numberline {3.1.7}类欧几里得}{15}{subsubsection.3.1.7}% 
+\contentsline {subsection}{\numberline {3.2}组合数学}{16}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Lucas 定理}{16}{subsubsection.3.2.1}% 
+\contentsline {paragraph}{\numberline {3.2.1.1}Lucas 定理}{16}{paragraph.3.2.1.1}% 
+\contentsline {paragraph}{\numberline {3.2.1.2}exLucas 定理}{16}{paragraph.3.2.1.2}% 
+\contentsline {subsubsection}{\numberline {3.2.2}容斥原理}{16}{subsubsection.3.2.2}% 
+\contentsline {paragraph}{\numberline {3.2.2.1}容斥原理}{16}{paragraph.3.2.2.1}% 
+\contentsline {paragraph}{\numberline {3.2.2.2}二项式反演（广义容斥）}{16}{paragraph.3.2.2.2}% 
+\contentsline {paragraph}{\numberline {3.2.2.3}子集反演}{16}{paragraph.3.2.2.3}% 
+\contentsline {paragraph}{\numberline {3.2.2.4}min-max 反演，$k$ 值反演}{16}{paragraph.3.2.2.4}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Catalan 数}{16}{subsubsection.3.2.3}% 
+\contentsline {subsubsection}{\numberline {3.2.4}Stirling 数}{16}{subsubsection.3.2.4}% 
+\contentsline {paragraph}{\numberline {3.2.4.1}第一类 Stirling 数}{16}{paragraph.3.2.4.1}% 
+\contentsline {paragraph}{\numberline {3.2.4.2}第二类 Stirling 数}{16}{paragraph.3.2.4.2}% 
+\contentsline {paragraph}{\numberline {3.2.4.3}Stirling 反演}{16}{paragraph.3.2.4.3}% 
+\contentsline {subsubsection}{\numberline {3.2.5}Bernoulli 数}{16}{subsubsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.3}线性代数}{17}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Gauss 消元}{17}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}线性基}{17}{subsubsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.3}Matrix-Tree 定理}{17}{subsubsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.4}多项式}{18}{subsection.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}Lagrange 插值}{18}{subsubsection.3.4.1}% 
+\contentsline {paragraph}{\numberline {3.4.1.1}Lagrange 插值}{18}{paragraph.3.4.1.1}% 
+\contentsline {paragraph}{\numberline {3.4.1.2}Lagrange 反演}{18}{paragraph.3.4.1.2}% 
+\contentsline {paragraph}{\numberline {3.4.1.3}exLagrange 反演}{18}{paragraph.3.4.1.3}% 
+\contentsline {subsubsection}{\numberline {3.4.2}FFT/NTT}{18}{subsubsection.3.4.2}% 
+\contentsline {paragraph}{\numberline {3.4.2.1}多项式基本模板}{18}{paragraph.3.4.2.1}% 
+\contentsline {subparagraph}{多项式乘法}{18}{section*.4}% 
+\contentsline {subparagraph}{多项式求逆}{18}{section*.5}% 
+\contentsline {subparagraph}{多项式 ln}{18}{section*.6}% 
+\contentsline {subparagraph}{多项式 exp}{18}{section*.7}% 
+\contentsline {subparagraph}{多项式除法}{18}{section*.8}% 
+\contentsline {subparagraph}{多项式开根}{18}{section*.9}% 
+\contentsline {subparagraph}{多项式快速幂}{18}{section*.10}% 
+\contentsline {subparagraph}{多项式三角函数}{18}{section*.11}% 
+\contentsline {subparagraph}{多项式双曲函数}{18}{section*.12}% 
+\contentsline {paragraph}{\numberline {3.4.2.2}分治 FFT/NTT}{18}{paragraph.3.4.2.2}% 
+\contentsline {paragraph}{\numberline {3.4.2.3}单位根反演}{18}{paragraph.3.4.2.3}% 
+\contentsline {subsubsection}{\numberline {3.4.3}幂级数}{18}{subsubsection.3.4.3}% 
+\contentsline {paragraph}{\numberline {3.4.3.1}集合幂级数 FWT/FMT/FST}{18}{paragraph.3.4.3.1}% 
+\contentsline {paragraph}{\numberline {3.4.3.2}生成函数}{19}{paragraph.3.4.3.2}% 
+\contentsline {subparagraph}{普通型生成函数 OGF}{19}{section*.13}% 
+\contentsline {subparagraph}{指数型生成函数 EGF}{19}{section*.14}% 
+\contentsline {subsubsection}{\numberline {3.4.4}常系数齐次线性递推}{19}{subsubsection.3.4.4}% 
+\contentsline {subsubsection}{\numberline {3.4.5}特征根/多项式}{19}{subsubsection.3.4.5}% 
+\contentsline {subsection}{\numberline {3.5}群论}{20}{subsection.3.5}% 
+\contentsline {subsubsection}{\numberline {3.5.1}置换群}{20}{subsubsection.3.5.1}% 
+\contentsline {subsubsection}{\numberline {3.5.2}Burnside 引理及不动点}{20}{subsubsection.3.5.2}% 
+\contentsline {subsubsection}{\numberline {3.5.3}polya 计数}{20}{subsubsection.3.5.3}% 
+\contentsline {subsection}{\numberline {3.6}博弈论}{21}{subsection.3.6}% 
+\contentsline {subsection}{\numberline {3.7}线性规划}{22}{subsection.3.7}% 
+\contentsline {subsubsection}{\numberline {3.7.1}单纯形法}{22}{subsubsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.8}基础微积分}{23}{subsection.3.8}% 
+\contentsline {subsubsection}{\numberline {3.8.1}Simpson 积分}{23}{subsubsection.3.8.1}% 
+\contentsline {subsubsection}{\numberline {3.8.2}偏导数}{23}{subsubsection.3.8.2}% 
+\contentsline {paragraph}{\numberline {3.8.2.1}Lagrange 乘数法}{23}{paragraph.3.8.2.1}% 
+\contentsline {paragraph}{\numberline {3.8.2.2}最小二乘法}{23}{paragraph.3.8.2.2}% 
+\contentsline {subsubsection}{\numberline {3.8.3}差分}{23}{subsubsection.3.8.3}% 
+\contentsline {paragraph}{\numberline {3.8.3.1}分部求和法}{23}{paragraph.3.8.3.1}% 
+\contentsline {paragraph}{\numberline {3.8.3.2}多重差分}{23}{paragraph.3.8.3.2}% 
+\contentsline {subsection}{\numberline {3.9}贪心，随机化算法}{24}{subsection.3.9}% 
+\contentsline {subsubsection}{\numberline {3.9.1}01 分数规划}{24}{subsubsection.3.9.1}% 
+\contentsline {subsubsection}{\numberline {3.9.2}拟阵}{24}{subsubsection.3.9.2}% 
+\contentsline {subsubsection}{\numberline {3.9.3}随机化算法}{24}{subsubsection.3.9.3}% 
+\contentsline {subsection}{\numberline {3.10}计算几何}{25}{subsection.3.10}% 
+\contentsline {subsubsection}{\numberline {3.10.1}向量}{25}{subsubsection.3.10.1}% 
+\contentsline {subsubsection}{\numberline {3.10.2}凸包}{25}{subsubsection.3.10.2}% 
+\contentsline {paragraph}{\numberline {3.10.2.1}旋转卡壳}{25}{paragraph.3.10.2.1}% 
+\contentsline {paragraph}{\numberline {3.10.2.2}Minkowski 合并凸包}{25}{paragraph.3.10.2.2}% 
+\contentsline {subsubsection}{\numberline {3.10.3}半平面交}{25}{subsubsection.3.10.3}% 
+\contentsline {subsubsection}{\numberline {3.10.4}三角剖分}{25}{subsubsection.3.10.4}% 
+\contentsline {subsubsection}{\numberline {3.10.5}三维计算几何}{25}{subsubsection.3.10.5}% 
+\contentsline {paragraph}{\numberline {3.10.5.1}三维凸包}{25}{paragraph.3.10.5.1}% 
+\contentsline {paragraph}{\numberline {3.10.5.2}四面体剖分}{25}{paragraph.3.10.5.2}% 
+\contentsline {section}{\numberline {4}字符串}{26}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Hash}{26}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}KMP/exKMP}{27}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}AC 自动机}{28}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}SA/SAM}{29}{subsection.4.4}% 
+\contentsline {subsection}{\numberline {4.5}manacher/PAM}{30}{subsection.4.5}% 
+\contentsline {section}{\numberline {5}数据结构}{31}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}基础数据结构}{31}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}树状数组 bit}{32}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}线段树 sgt}{33}{subsection.5.3}% 
+\contentsline {subsubsection}{\numberline {5.3.1}zkw 线段树}{33}{subsubsection.5.3.1}% 
+\contentsline {subsubsection}{\numberline {5.3.2}线段树合并/分裂}{33}{subsubsection.5.3.2}% 
+\contentsline {subsubsection}{\numberline {5.3.3}Beats（吉司机树)}{33}{subsubsection.5.3.3}% 
+\contentsline {subsubsection}{\numberline {5.3.4}李超线段树}{33}{subsubsection.5.3.4}% 
+\contentsline {subsection}{\numberline {5.4}平衡树}{34}{subsection.5.4}% 
+\contentsline {subsubsection}{\numberline {5.4.1}Splay}{34}{subsubsection.5.4.1}% 
+\contentsline {subsubsection}{\numberline {5.4.2}Treap/fhq-Treap}{34}{subsubsection.5.4.2}% 
+\contentsline {subsubsection}{\numberline {5.4.3}笛卡尔树}{34}{subsubsection.5.4.3}% 
+\contentsline {subsubsection}{\numberline {5.4.4}替罪羊树}{34}{subsubsection.5.4.4}% 
+\contentsline {subsection}{\numberline {5.5}KD-Tree}{35}{subsection.5.5}% 
+\contentsline {subsection}{\numberline {5.6}可并堆和左偏树}{36}{subsection.5.6}% 
+\contentsline {subsection}{\numberline {5.7}序列分治算法}{37}{subsection.5.7}% 
+\contentsline {subsubsection}{\numberline {5.7.1}CDQ 分治}{37}{subsubsection.5.7.1}% 
+\contentsline {subsubsection}{\numberline {5.7.2}整体二分}{37}{subsubsection.5.7.2}% 
+\contentsline {subsection}{\numberline {5.8}树上分治算法}{38}{subsection.5.8}% 
+\contentsline {subsubsection}{\numberline {5.8.1}点分治}{38}{subsubsection.5.8.1}% 
+\contentsline {paragraph}{\numberline {5.8.1.1}动态点分治}{38}{paragraph.5.8.1.1}% 
+\contentsline {subsubsection}{\numberline {5.8.2}边分治}{38}{subsubsection.5.8.2}% 
+\contentsline {subsubsection}{\numberline {5.8.3}树链剖分 HLD}{38}{subsubsection.5.8.3}% 
+\contentsline {subsubsection}{\numberline {5.8.4}Link-Cut-Tree}{38}{subsubsection.5.8.4}% 
+\contentsline {subsubsection}{\numberline {5.8.5}长链剖分 LPD}{38}{subsubsection.5.8.5}% 
+\contentsline {subsubsection}{\numberline {5.8.6}dsu on tree}{38}{subsubsection.5.8.6}% 
+\contentsline {subsubsection}{\numberline {5.8.7}Euler-Tour-Tree}{38}{subsubsection.5.8.7}% 
+\contentsline {subsection}{\numberline {5.9}可持久化数据结构}{39}{subsection.5.9}% 
+\contentsline {subsection}{\numberline {5.10}Dancing-Links X}{40}{subsection.5.10}% 
+\contentsline {section}{\numberline {6}更新日志}{41}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}version beta 1.0}{41}{subsection.6.1}% 
