@@ -17,3 +17,23 @@
 \end{tabular}
 ```
 
+一个子章节的实例：
+
+```latex
+\newpage
+\subsubtitle
+
+\paragraph{简单教学}
+
+公式请用 equations：\\
+
+\begin{equations}
+	1 + 1 = 2
+\end{equations}
+
+相信你一定会！\\
+
+\begin{tabular}
+\end{tabular}
+```
+
